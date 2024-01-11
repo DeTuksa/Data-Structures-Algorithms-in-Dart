@@ -3,3 +3,4 @@ A Project on Practical Data Structures and Algorithms in Dart from the book writ
 Entry in `bin/`, library code
 
 Stack Data Structure in `lib/stack`
+LinkedList in `lib/linked_list`
