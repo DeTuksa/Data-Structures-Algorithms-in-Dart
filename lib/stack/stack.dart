@@ -1,6 +1,6 @@
 /// * The stack data structure is identical in concept to a physical stack of objects.
 /// * The main goal of building a stack is to enforce how you access your data.
-/// * There are only two essential opetations for a stack:
+/// * There are only two essential opetations for a stack that are constant time [O(1)]
 /// *   1. push: Add element to the top of the stack
 /// *   2. pop: Remove the top element of the stack
 /// 
