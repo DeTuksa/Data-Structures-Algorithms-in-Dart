@@ -1,4 +1,4 @@
-import 'package:dsa_dart/linked_list/challenges.dart';
+import 'package:dsa_dart/queues/queue_challenges.dart';
 
 void main(List<String> arguments) {
   testBasicOps();
