@@ -5,3 +5,4 @@ Entry in `bin/`, library code
 Stack Data Structure in `lib/stack`
 LinkedList in `lib/linked_list`
 Queues in `lib/queues`
+Trees in `lib/tree`

@@ -1,5 +1,6 @@
-import 'package:dsa_dart/queues/queue_challenges.dart';
+import 'package:dsa_dart/tree/challenges.dart';
 
 void main(List<String> arguments) {
-  testBasicOps();
+  final tree = makeBeverageTree();
+  printEachLevel(tree);
 }
